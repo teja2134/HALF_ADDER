@@ -55,6 +55,7 @@ endmodule
 
 # Output
 
+![ha](https://github.com/teja2134/HALF_ADDER/assets/161149578/11691a4c-c728-4fd2-972a-be30308d782b)
 
 # Result
 

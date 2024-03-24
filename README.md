@@ -42,10 +42,20 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 # Program
 
 module Half_adder(a,b,sum,carry);
+
 input a,b;
+
 output sum,carry;
+
 xor g1(sum,a,b);
+
 and g2(carry,a,b);
+
 endmodule
 
-  
+# Output
+
+
+# Result
+
+Thus the verilog program for half adder has been simulated and verified successfully.

@@ -3,7 +3,7 @@
 To simulate and synthesis half adder using vivado.
 
 # Apparatus Required:
-vivado software.
+vivado 2023.2 software.
 
 # Procedure:
 
@@ -15,7 +15,7 @@ STEP:3 Select new source in the New Project and select Verilog Module as the Sou
 
 STEP:4 Type the File Name and module name and Click Next and then finish button. Type the code and save it.
 
-STEP:5 Select the run simulation adn then run Behavioral Simulation in the Source Window and click the check syntax.
+STEP:5 Select the run simulation and then run Behavioral Simulation in the Source Window and click the check syntax.
 
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 

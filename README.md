@@ -63,7 +63,7 @@ endmodule
 Thus the verilog program for half adder has been simulated and verified successfully.
 
 
-<img width="295" alt="Screenshot 2024-03-25 234713" src="https://github.com/teja2134/HALF_ADDER/assets/161149578/8bca084f-40b7-4d2e-83b5-788652b969f8">
+
 
 
 
